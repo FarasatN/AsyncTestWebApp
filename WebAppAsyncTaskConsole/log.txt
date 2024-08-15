@@ -1,0 +1,5 @@
+[15.08.2024 08:36:29] - Total time for 0 : 2894 ms
+[15.08.2024 08:36:29] - Total thread of hardware(processor): 4
+[15.08.2024 08:36:41] - App is running..
+[15.08.2024 08:36:48] - Total time for 1 : 1133 ms
+[15.08.2024 08:36:48] - Total thread of hardware(processor): 4
