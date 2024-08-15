@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "WebAppAsyncTask.Controllers.Test",
+    "Method": "GetAsync",
+    "RelativePath": "api/Test/Async",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAppAsyncTask.Controllers.Test",
+    "Method": "GetSync",
+    "RelativePath": "api/Test/Sync",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

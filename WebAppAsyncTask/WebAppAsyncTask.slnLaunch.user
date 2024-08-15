@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "..\\WebAppAsyncTaskConsole\\WebAppAsyncTaskConsole.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "WebAppAsyncTask.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\dev\aspnetcore\WebAppAsyncTaskConsole\obj\Debug\net8.0\WebAppAsyncTaskConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\dev\aspnetcore\WebAppAsyncTaskConsole\obj\Debug\net8.0\WebAppAsyncTaskConsole.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\dev\aspnetcore\WebAppAsyncTaskConsole\obj\Debug\net8.0\WebAppAsyncTaskConsole.AssemblyInfo.cs
+C:\Users\User\Desktop\dev\aspnetcore\WebAppAsyncTaskConsole\obj\Debug\net8.0\WebAppAsyncTaskConsole.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\dev\aspnetcore\WebAppAsyncTaskConsole\bin\Debug\net8.0\WebAppAsyncTaskConsole.exe
+C:\Users\User\Desktop\dev\aspnetcore\WebAppAsyncTaskConsole\bin\Debug\net8.0\WebAppAsyncTaskConsole.deps.json
+C:\Users\User\Desktop\dev\aspnetcore\WebAppAsyncTaskConsole\bin\Debug\net8.0\WebAppAsyncTaskConsole.runtimeconfig.json
+C:\Users\User\Desktop\dev\aspnetcore\WebAppAsyncTaskConsole\bin\Debug\net8.0\WebAppAsyncTaskConsole.dll
+C:\Users\User\Desktop\dev\aspnetcore\WebAppAsyncTaskConsole\bin\Debug\net8.0\WebAppAsyncTaskConsole.pdb
+C:\Users\User\Desktop\dev\aspnetcore\WebAppAsyncTaskConsole\obj\Debug\net8.0\WebAppAsyncTaskConsole.dll
+C:\Users\User\Desktop\dev\aspnetcore\WebAppAsyncTaskConsole\obj\Debug\net8.0\refint\WebAppAsyncTaskConsole.dll
+C:\Users\User\Desktop\dev\aspnetcore\WebAppAsyncTaskConsole\obj\Debug\net8.0\WebAppAsyncTaskConsole.pdb
+C:\Users\User\Desktop\dev\aspnetcore\WebAppAsyncTaskConsole\obj\Debug\net8.0\WebAppAsyncTaskConsole.genruntimeconfig.cache
+C:\Users\User\Desktop\dev\aspnetcore\WebAppAsyncTaskConsole\obj\Debug\net8.0\ref\WebAppAsyncTaskConsole.dll
